@@ -1,0 +1,7 @@
+#qt_module Qt3DQuickExtras
+
+Qt3DQuickExtras               Qt3DQuickExtras       
+Qt3DQuickExtrasDepends        Qt3DQuickExtrasDepends
+Qt3DQuickExtrasVersion        Qt3DQuickExtrasVersion
+Qt3DQuickWindow               Qt3DQuickWindow       
+

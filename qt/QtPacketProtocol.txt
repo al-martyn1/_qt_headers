@@ -1,0 +1,6 @@
+#qt_module QtPacketProtocol
+
+QtPacketProtocol           QtPacketProtocol       
+QtPacketProtocolDepends    QtPacketProtocolDepends
+QtPacketProtocolVersion    QtPacketProtocolVersion
+

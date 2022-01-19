@@ -1,0 +1,9 @@
+#qt_module QtMultimediaWidgets
+
+QCameraViewfinder             QCameraViewfinder          
+QGraphicsVideoItem            QGraphicsVideoItem         
+QtMultimediaWidgets           QtMultimediaWidgets        
+QtMultimediaWidgetsDepends    QtMultimediaWidgetsDepends 
+QtMultimediaWidgetsVersion    QtMultimediaWidgetsVersion 
+QVideoWidget                  QVideoWidget               
+QVideoWidgetControl           QVideoWidgetControl        

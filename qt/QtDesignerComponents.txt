@@ -1,0 +1,6 @@
+#qt_module QtDesignerComponents
+
+QtDesignerComponents           QtDesignerComponents       
+QtDesignerComponentsDepends    QtDesignerComponentsDepends
+QtDesignerComponentsVersion    QtDesignerComponentsVersion
+

@@ -1,0 +1,6 @@
+#qt_module QtFontDatabaseSupport
+
+QtFontDatabaseSupport           QtFontDatabaseSupport       
+QtFontDatabaseSupportDepends    QtFontDatabaseSupportDepends
+QtFontDatabaseSupportVersion    QtFontDatabaseSupportVersion
+

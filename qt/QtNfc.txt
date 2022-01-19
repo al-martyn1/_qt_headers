@@ -1,0 +1,18 @@
+#qt_module QtNfc
+
+QNdefFilter                  QNdefFilter              
+QNdefMessage                 QNdefMessage             
+QNdefNfcIconRecord           QNdefNfcIconRecord       
+QNdefNfcSmartPosterRecord    QNdefNfcSmartPosterRecord
+QNdefNfcTextRecord           QNdefNfcTextRecord       
+QNdefNfcUriRecord            QNdefNfcUriRecord        
+QNdefRecord                  QNdefRecord              
+QNearFieldManager            QNearFieldManager        
+QNearFieldShareManager       QNearFieldShareManager   
+QNearFieldShareTarget        QNearFieldShareTarget    
+QNearFieldTarget             QNearFieldTarget         
+QQmlNdefRecord               QQmlNdefRecord           
+QtNfc                        QtNfc                    
+QtNfcDepends                 QtNfcDepends             
+QtNfcVersion                 QtNfcVersion             
+

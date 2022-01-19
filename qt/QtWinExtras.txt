@@ -1,0 +1,17 @@
+#qt_module QtWinExtras
+
+QtWin                           QtWin                      
+QtWinExtras                     QtWinExtras                
+QtWinExtrasDepends              QtWinExtrasDepends         
+QtWinExtrasVersion              QtWinExtrasVersion         
+QWinColorizationChangeEvent     QWinColorizationChangeEvent
+QWinCompositionChangeEvent      QWinCompositionChangeEvent 
+QWinEvent                       QWinEvent                  
+QWinJumpList                    QWinJumpList               
+QWinJumpListCategory            QWinJumpListCategory       
+QWinJumpListItem                QWinJumpListItem           
+QWinMime                        QWinMime                   
+QWinTaskbarButton               QWinTaskbarButton          
+QWinTaskbarProgress             QWinTaskbarProgress        
+QWinThumbnailToolBar            QWinThumbnailToolBar       
+QWinThumbnailToolButton         QWinThumbnailToolButton    

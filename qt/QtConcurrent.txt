@@ -1,0 +1,9 @@
+#qt_module QtConcurrent
+
+QtConcurrent           QtConcurrent       
+QtConcurrentDepends    QtConcurrentDepends
+QtConcurrentFilter     QtConcurrentFilter 
+QtConcurrentMap        QtConcurrentMap    
+QtConcurrentRun        QtConcurrentRun    
+QtConcurrentVersion    QtConcurrentVersion
+

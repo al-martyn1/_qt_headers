@@ -1,0 +1,11 @@
+#qt_module QtWebSockets
+
+QMaskGenerator                 QMaskGenerator             
+QtWebSockets                   QtWebSockets               
+QtWebSocketsDepends            QtWebSocketsDepends        
+QtWebSocketsVersion            QtWebSocketsVersion        
+QWebSocket                     QWebSocket                 
+QWebSocketCorsAuthenticator    QWebSocketCorsAuthenticator
+QWebSocketProtocol             QWebSocketProtocol         
+QWebSocketServer               QWebSocketServer           
+

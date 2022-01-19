@@ -1,0 +1,23 @@
+#qt_module QtTest
+
+QAbstractItemModelTester     QAbstractItemModelTester
+QEventSizeOfChecker          QEventSizeOfChecker     
+QSignalSpy                   QSignalSpy              
+QSpontaneKeyEvent            QSpontaneKeyEvent       
+QtCoverageScanner            QtCoverageScanner       
+QTest                        QTest                   
+QTestAccessibility           QTestAccessibility      
+QTestData                    QTestData               
+QTestDelayEvent              QTestDelayEvent         
+QTestEvent                   QTestEvent              
+QTestEventList               QTestEventList          
+QTestEventLoop               QTestEventLoop          
+QTestKeyClicksEvent          QTestKeyClicksEvent     
+QTestKeyEvent                QTestKeyEvent           
+QTestMouseEvent              QTestMouseEvent         
+QtTest                       QtTest                  
+QtTestDepends                QtTestDepends           
+QtTestGui                    QtTestGui               
+QtTestNetwork                QtTestNetwork           
+QtTestVersion                QtTestVersion           
+QtTestWidgets                QtTestWidgets           

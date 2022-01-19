@@ -1,0 +1,5 @@
+#qt_module Qt3DQuickAnimation
+
+Qt3DQuickAnimation                     Qt3DQuickAnimation       
+Qt3DQuickAnimationDepends              Qt3DQuickAnimationDepends
+Qt3DQuickAnimationVersion              Qt3DQuickAnimationVersion

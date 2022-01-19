@@ -1,0 +1,21 @@
+#qt_module QtPositioning
+
+QGeoAddress                      QGeoAddress                  
+QGeoAreaMonitorInfo              QGeoAreaMonitorInfo          
+QGeoAreaMonitorSource            QGeoAreaMonitorSource        
+QGeoCircle                       QGeoCircle                   
+QGeoCoordinate                   QGeoCoordinate               
+QGeoLocation                     QGeoLocation                 
+QGeoPath                         QGeoPath                     
+QGeoPolygon                      QGeoPolygon                  
+QGeoPositionInfo                 QGeoPositionInfo             
+QGeoPositionInfoSource           QGeoPositionInfoSource       
+QGeoPositionInfoSourceFactory    QGeoPositionInfoSourceFactory
+QGeoRectangle                    QGeoRectangle                
+QGeoSatelliteInfo                QGeoSatelliteInfo            
+QGeoSatelliteInfoSource          QGeoSatelliteInfoSource      
+QGeoShape                        QGeoShape                    
+QNmeaPositionInfoSource          QNmeaPositionInfoSource      
+QtPositioning                    QtPositioning                
+QtPositioningDepends             QtPositioningDepends         
+QtPositioningVersion             QtPositioningVersion         

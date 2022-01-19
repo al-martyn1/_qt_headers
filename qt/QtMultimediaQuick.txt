@@ -1,0 +1,5 @@
+#qt_module QtMultimediaQuick
+
+QtMultimediaQuick           QtMultimediaQuick       
+QtMultimediaQuickDepends    QtMultimediaQuickDepends
+QtMultimediaQuickVersion    QtMultimediaQuickVersion

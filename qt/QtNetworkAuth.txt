@@ -1,0 +1,14 @@
+#qt_module QtNetworkAuth
+
+QAbstractOAuth                  QAbstractOAuth              
+QAbstractOAuth2                 QAbstractOAuth2             
+QAbstractOAuthReplyHandler      QAbstractOAuthReplyHandler  
+QOAuth1                         QOAuth1                     
+QOAuth1Signature                QOAuth1Signature            
+QOAuth2AuthorizationCodeFlow    QOAuth2AuthorizationCodeFlow
+QOAuthHttpServerReplyHandler    QOAuthHttpServerReplyHandler
+QOAuthOobReplyHandler           QOAuthOobReplyHandler       
+QtNetworkAuth                   QtNetworkAuth               
+QtNetworkAuthDepends            QtNetworkAuthDepends        
+QtNetworkAuthVersion            QtNetworkAuthVersion        
+

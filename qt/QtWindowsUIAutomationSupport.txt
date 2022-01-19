@@ -1,0 +1,5 @@
+#qt_module QtWindowsUIAutomationSupport
+
+QtWindowsUIAutomationSupport           QtWindowsUIAutomationSupport       
+QtWindowsUIAutomationSupportDepends    QtWindowsUIAutomationSupportDepends
+QtWindowsUIAutomationSupportVersion    QtWindowsUIAutomationSupportVersion

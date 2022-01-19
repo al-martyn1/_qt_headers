@@ -1,0 +1,5 @@
+#qt_module QtPositioningQuick
+
+QtPositioningQuick           QtPositioningQuick       
+QtPositioningQuickDepends    QtPositioningQuickDepends
+QtPositioningQuickVersion    QtPositioningQuickVersion

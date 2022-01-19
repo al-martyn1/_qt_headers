@@ -1,0 +1,6 @@
+#qt_module Qt3DQuickInput
+
+Qt3DQuickInput           Qt3DQuickInput       
+Qt3DQuickInputDepends    Qt3DQuickInputDepends
+Qt3DQuickInputVersion    Qt3DQuickInputVersion
+

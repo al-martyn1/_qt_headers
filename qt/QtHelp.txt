@@ -1,0 +1,24 @@
+#qt_module QtHelp
+
+QCompressedHelpInfo               QCompressedHelpInfo      
+QHelpContentItem                  QHelpContentItem         
+QHelpContentModel                 QHelpContentModel        
+QHelpContentWidget                QHelpContentWidget       
+QHelpEngine                       QHelpEngine              
+QHelpEngineCore                   QHelpEngineCore          
+QHelpFilterData                   QHelpFilterData          
+QHelpFilterEngine                 QHelpFilterEngine        
+QHelpFilterSettingsWidget         QHelpFilterSettingsWidget
+QHelpGlobal                       QHelpGlobal              
+QHelpIndexModel                   QHelpIndexModel          
+QHelpIndexWidget                  QHelpIndexWidget         
+QHelpLink                         QHelpLink                
+QHelpSearchEngine                 QHelpSearchEngine        
+QHelpSearchQuery                  QHelpSearchQuery         
+QHelpSearchQueryWidget            QHelpSearchQueryWidget   
+QHelpSearchResult                 QHelpSearchResult        
+QHelpSearchResultWidget           QHelpSearchResultWidget  
+QtHelp                            QtHelp                   
+QtHelpDepends                     QtHelpDepends            
+QtHelpVersion                     QtHelpVersion            
+

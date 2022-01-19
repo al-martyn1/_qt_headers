@@ -1,0 +1,5 @@
+#qt_module QtDeviceDiscoverySupport
+
+QtDesignerComponents               QtDesignerComponents       
+QtDesignerComponentsDepends        QtDesignerComponentsDepends
+QtDesignerComponentsVersion        QtDesignerComponentsVersion

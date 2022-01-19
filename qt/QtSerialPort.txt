@@ -1,0 +1,8 @@
+#qt_module QtSerialPort
+
+QSerialPort            QSerialPort        
+QSerialPortInfo        QSerialPortInfo    
+QtSerialPort           QtSerialPort       
+QtSerialPortDepends    QtSerialPortDepends
+QtSerialPortVersion    QtSerialPortVersion
+

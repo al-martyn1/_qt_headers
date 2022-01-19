@@ -1,0 +1,83 @@
+#!umba-make-headers
+
+
+#include Qt3DAnimation.txt
+#include Qt3DCore.txt
+#include Qt3DExtras.txt
+#include Qt3DInput.txt
+#include Qt3DLogic.txt
+#include Qt3DQuick.txt
+#include Qt3DQuickAnimation.txt
+#include Qt3DQuickExtras.txt
+#include Qt3DQuickInput.txt
+#include Qt3DQuickRender.txt
+#include Qt3DQuickScene2D.txt
+#include Qt3DRender.txt
+#include QtAccessibilitySupport.txt
+# include QtANGLE.txt
+#include QtBluetooth.txt
+#include QtConcurrent.txt
+#include QtCore.txt
+#include QtDBus.txt
+#include QtDesigner.txt
+#include QtDesignerComponents.txt
+#include QtDeviceDiscoverySupport.txt
+#include QtEdidSupport.txt
+# include QtEglSupport.txt
+#include QtEventDispatcherSupport.txt
+#include QtFbSupport.txt
+#include QtFontDatabaseSupport.txt
+#include QtGamepad.txt
+#include QtGui.txt
+#include QtHelp.txt
+#include QtLocation.txt
+#include QtMultimedia.txt
+#include QtMultimediaQuick.txt
+#include QtMultimediaWidgets.txt
+#include QtNetwork.txt
+#include QtNetworkAuth.txt
+#include QtNfc.txt
+# include QtOpenGL.txt
+# include QtOpenGLExtensions.txt
+#include QtPacketProtocol.txt
+#include QtPlatformCompositorSupport.txt
+# include QtPlatformHeaders.txt
+#include QtPositioning.txt
+#include QtPositioningQuick.txt
+#include QtPrintSupport.txt
+#include QtQml.txt
+# include QtQmlDebug.txt
+# include QtQmlModels.txt
+# include QtQmlWorkerScript.txt
+# include QtQuick.txt
+# include QtQuickControls2.txt
+# include QtQuickParticles.txt
+# include QtQuickShapes.txt
+# include QtQuickTemplates2.txt
+# include QtQuickTest.txt
+# include QtQuickWidgets.txt
+# include QtRemoteObjects.txt
+# include QtRepParser.txt
+# include QtScxml.txt
+#include QtSensors.txt
+#include QtSerialBus.txt
+#include QtSerialPort.txt
+#include QtSql.txt
+#include QtSvg.txt
+#include QtTest.txt
+# include QtTextToSpeech.txt
+# include QtThemeSupport.txt
+# include QtUiPlugin.txt
+# include QtUiTools.txt
+# include QtVulkanSupport.txt
+# include QtWebChannel.txt
+#include QtWebSockets.txt
+# include QtWebView.txt
+#include QtWidgets.txt
+#include QtWindowsUIAutomationSupport.txt
+#include QtWinExtras.txt
+#include QtXml.txt
+#include QtXmlPatterns.txt
+# include QtZlib.txt
+
+

@@ -1,0 +1,9 @@
+#qt_module QtSvg
+
+QGraphicsSvgItem    QGraphicsSvgItem
+QSvgGenerator       QSvgGenerator   
+QSvgRenderer        QSvgRenderer    
+QSvgWidget          QSvgWidget      
+QtSvg               QtSvg           
+QtSvgDepends        QtSvgDepends    
+QtSvgVersion        QtSvgVersion    

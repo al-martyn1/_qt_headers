@@ -1,0 +1,14 @@
+#qt_module QtPrintSupport
+
+QAbstractPrintDialog     QAbstractPrintDialog 
+QPageSetupDialog         QPageSetupDialog     
+QPrintDialog             QPrintDialog         
+QPrintEngine             QPrintEngine         
+QPrinter                 QPrinter             
+QPrinterInfo             QPrinterInfo         
+QPrintPreviewDialog      QPrintPreviewDialog  
+QPrintPreviewWidget      QPrintPreviewWidget  
+QtPrintSupport           QtPrintSupport       
+QtPrintSupportDepends    QtPrintSupportDepends
+QtPrintSupportVersion    QtPrintSupportVersion
+

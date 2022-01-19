@@ -1,0 +1,6 @@
+#qt_module QtPlatformCompositorSupport
+
+QtPlatformCompositorSupport           QtPlatformCompositorSupport       
+QtPlatformCompositorSupportDepends    QtPlatformCompositorSupportDepends
+QtPlatformCompositorSupportVersion    QtPlatformCompositorSupportVersion
+

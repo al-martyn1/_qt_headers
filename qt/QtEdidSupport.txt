@@ -1,0 +1,6 @@
+#qt_module QtEdidSupport
+
+QtEdidSupport           QtEdidSupport       
+QtEdidSupportDepends    QtEdidSupportDepends
+QtEdidSupportVersion    QtEdidSupportVersion
+

@@ -1,0 +1,6 @@
+#qt_module Qt3DQuickRender
+
+Qt3DQuickRender               Qt3DQuickRender       
+Qt3DQuickRenderDepends        Qt3DQuickRenderDepends
+Qt3DQuickRenderVersion        Qt3DQuickRenderVersion
+

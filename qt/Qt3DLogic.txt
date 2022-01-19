@@ -1,0 +1,7 @@
+#qt_module Qt3DLogic
+
+QFrameAction               QFrameAction    
+QLogicAspect               QLogicAspect    
+Qt3DLogic                  Qt3DLogic       
+Qt3DLogicDepends           Qt3DLogicDepends
+Qt3DLogicVersion           Qt3DLogicVersion

@@ -1,0 +1,7 @@
+#qt_module Qt3DQuick
+
+QQmlAspectEngine            QQmlAspectEngine
+Qt3DQuick                   Qt3DQuick       
+Qt3DQuickDepends            Qt3DQuickDepends
+Qt3DQuickVersion            Qt3DQuickVersion
+

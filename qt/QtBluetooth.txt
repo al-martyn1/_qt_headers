@@ -1,0 +1,30 @@
+#qt_module QtBluetooth
+
+
+QBluetoothAddress                    QBluetoothAddress              
+QBluetoothDeviceDiscoveryAgent       QBluetoothDeviceDiscoveryAgent 
+QBluetoothDeviceInfo                 QBluetoothDeviceInfo           
+QBluetoothHostInfo                   QBluetoothHostInfo             
+QBluetoothLocalDevice                QBluetoothLocalDevice          
+QBluetoothServer                     QBluetoothServer               
+QBluetoothServiceDiscoveryAgent      QBluetoothServiceDiscoveryAgent
+QBluetoothServiceInfo                QBluetoothServiceInfo          
+QBluetoothSocket                     QBluetoothSocket               
+QBluetoothTransferManager            QBluetoothTransferManager      
+QBluetoothTransferReply              QBluetoothTransferReply        
+QBluetoothTransferRequest            QBluetoothTransferRequest      
+QBluetoothUuid                       QBluetoothUuid                 
+QLowEnergyAdvertisingData            QLowEnergyAdvertisingData      
+QLowEnergyAdvertisingParameters      QLowEnergyAdvertisingParameters
+QLowEnergyCharacteristic             QLowEnergyCharacteristic       
+QLowEnergyCharacteristicData         QLowEnergyCharacteristicData   
+QLowEnergyConnectionParameters       QLowEnergyConnectionParameters 
+QLowEnergyController                 QLowEnergyController           
+QLowEnergyDescriptor                 QLowEnergyDescriptor           
+QLowEnergyDescriptorData             QLowEnergyDescriptorData       
+QLowEnergyHandle                     QLowEnergyHandle               
+QLowEnergyService                    QLowEnergyService              
+QLowEnergyServiceData                QLowEnergyServiceData          
+QtBluetooth                          QtBluetooth                    
+QtBluetoothDepends                   QtBluetoothDepends             
+QtBluetoothVersion                   QtBluetoothVersion             

@@ -1,0 +1,5 @@
+#qt_module QtFbSupport
+
+QtFbSupport           QtFbSupport       
+QtFbSupportDepends    QtFbSupportDepends
+QtFbSupportVersion    QtFbSupportVersion

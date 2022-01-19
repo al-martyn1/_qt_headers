@@ -1,0 +1,28 @@
+#qt_module QtSerialBus
+
+QCanBus                         QCanBus                     
+QCanBusDevice                   QCanBusDevice               
+QCanBusDeviceInfo               QCanBusDeviceInfo           
+QCanBusFactory                  QCanBusFactory              
+QCanBusFactoryV2                QCanBusFactoryV2            
+QCanBusFrame                    QCanBusFrame                
+QModbusClient                   QModbusClient               
+QModbusDataUnit                 QModbusDataUnit             
+QModbusDataUnitMap              QModbusDataUnitMap          
+QModbusDevice                   QModbusDevice               
+QModbusDeviceIdentification     QModbusDeviceIdentification 
+QModbusExceptionResponse        QModbusExceptionResponse    
+QModbusPdu                      QModbusPdu                  
+QModbusReply                    QModbusReply                
+QModbusRequest                  QModbusRequest              
+QModbusResponse                 QModbusResponse             
+QModbusRtuSerialMaster          QModbusRtuSerialMaster      
+QModbusRtuSerialSlave           QModbusRtuSerialSlave       
+QModbusServer                   QModbusServer               
+QModbusTcpClient                QModbusTcpClient            
+QModbusTcpConnectionObserver    QModbusTcpConnectionObserver
+QModbusTcpServer                QModbusTcpServer            
+QtSerialBus                     QtSerialBus                 
+QtSerialBusDepends              QtSerialBusDepends          
+QtSerialBusVersion              QtSerialBusVersion          
+

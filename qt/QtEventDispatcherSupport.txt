@@ -1,0 +1,5 @@
+#qt_module QtEventDispatcherSupport
+
+QtEventDispatcherSupport           QtEventDispatcherSupport       
+QtEventDispatcherSupportDepends    QtEventDispatcherSupportDepends
+QtEventDispatcherSupportVersion    QtEventDispatcherSupportVersion

@@ -1,0 +1,34 @@
+#qt_module Qt3DInput
+
+
+QAbstractActionInput                               QAbstractActionInput               
+QAbstractAxisInput                                 QAbstractAxisInput                 
+QAbstractPhysicalDevice                            QAbstractPhysicalDevice            
+QAction                                            QAction                            
+QActionInput                                       QActionInput                       
+QAnalogAxisInput                                   QAnalogAxisInput                   
+QAxis                                              QAxis                              
+QAxisAccumulator                                   QAxisAccumulator                   
+QAxisSetting                                       QAxisSetting                       
+QButtonAxisInput                                   QButtonAxisInput                   
+QInputAspect                                       QInputAspect                       
+QInputChord                                        QInputChord                        
+QInputSequence                                     QInputSequence                     
+QInputSettings                                     QInputSettings                     
+QKeyboardDevice                                    QKeyboardDevice                    
+QKeyboardHandler                                   QKeyboardHandler                   
+QKeyEvent                                          QKeyEvent                          
+QKeyEventPtr                                       QKeyEventPtr                       
+QLogicalDevice                                     QLogicalDevice                     
+QMouseDevice                                       QMouseDevice                       
+QMouseEvent                                        QMouseEvent                        
+QMouseEventPtr                                     QMouseEventPtr                     
+QMouseHandler                                      QMouseHandler                      
+QPhysicalDeviceCreatedChange                       QPhysicalDeviceCreatedChange       
+QPhysicalDeviceCreatedChangeBase                   QPhysicalDeviceCreatedChangeBase   
+QPhysicalDeviceCreatedChangeBasePtr                QPhysicalDeviceCreatedChangeBasePtr
+Qt3DInput                                          Qt3DInput                          
+Qt3DInputDepends                                   Qt3DInputDepends                   
+Qt3DInputVersion                                   Qt3DInputVersion                   
+QWheelEvent                                        QWheelEvent                        
+QWheelEventPtr                                     QWheelEventPtr                     

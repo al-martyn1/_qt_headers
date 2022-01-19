@@ -1,0 +1,21 @@
+#qt_module QtXmlPatterns
+
+QAbstractMessageHandler    QAbstractMessageHandler
+QAbstractUriResolver       QAbstractUriResolver   
+QAbstractXmlNodeModel      QAbstractXmlNodeModel  
+QAbstractXmlReceiver       QAbstractXmlReceiver   
+QSimpleXmlNodeModel        QSimpleXmlNodeModel    
+QSourceLocation            QSourceLocation        
+QtXmlPatterns              QtXmlPatterns          
+QtXmlPatternsDepends       QtXmlPatternsDepends   
+QtXmlPatternsVersion       QtXmlPatternsVersion   
+QXmlFormatter              QXmlFormatter          
+QXmlItem                   QXmlItem               
+QXmlName                   QXmlName               
+QXmlNamePool               QXmlNamePool           
+QXmlNodeModelIndex         QXmlNodeModelIndex     
+QXmlQuery                  QXmlQuery              
+QXmlResultItems            QXmlResultItems        
+QXmlSchema                 QXmlSchema             
+QXmlSchemaValidator        QXmlSchemaValidator    
+QXmlSerializer             QXmlSerializer         

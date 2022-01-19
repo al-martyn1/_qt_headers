@@ -1,0 +1,22 @@
+#qt_module QtSql
+
+QSql                        QSql                    
+QSqlDatabase                QSqlDatabase            
+QSqlDriver                  QSqlDriver              
+QSqlDriverCreator           QSqlDriverCreator       
+QSqlDriverCreatorBase       QSqlDriverCreatorBase   
+QSqlDriverPlugin            QSqlDriverPlugin        
+QSqlError                   QSqlError               
+QSqlField                   QSqlField               
+QSqlIndex                   QSqlIndex               
+QSqlQuery                   QSqlQuery               
+QSqlQueryModel              QSqlQueryModel          
+QSqlRecord                  QSqlRecord              
+QSqlRelation                QSqlRelation            
+QSqlRelationalDelegate      QSqlRelationalDelegate  
+QSqlRelationalTableModel    QSqlRelationalTableModel
+QSqlResult                  QSqlResult              
+QSqlTableModel              QSqlTableModel          
+QtSql                       QtSql                   
+QtSqlDepends                QtSqlDepends            
+QtSqlVersion                QtSqlVersion            

@@ -1,0 +1,5 @@
+#qt_module QtAccessibilitySupport
+
+QtAccessibilitySupport           QtAccessibilitySupport       
+QtAccessibilitySupportDepends    QtAccessibilitySupportDepends
+QtAccessibilitySupportVersion    QtAccessibilitySupportVersion
